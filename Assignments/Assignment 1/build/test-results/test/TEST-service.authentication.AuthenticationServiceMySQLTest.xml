@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.authentication.AuthenticationServiceMySQLTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-24T10:17:07" hostname="DESKTOP-94GB2QN" time="0.008">
+  <properties/>
+  <testcase name="logout" classname="service.authentication.AuthenticationServiceMySQLTest" time="0.006"/>
+  <testcase name="register" classname="service.authentication.AuthenticationServiceMySQLTest" time="0.001"/>
+  <testcase name="login" classname="service.authentication.AuthenticationServiceMySQLTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
